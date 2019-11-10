@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.smallimg {
+    margin-bottom: 15px;
+}
+
+.bigimg {
+    display: block;
+}
+.bigimg img{
+    width: 400px;
+    height: 250px;
+    margin-bottom: 10px;
+}
